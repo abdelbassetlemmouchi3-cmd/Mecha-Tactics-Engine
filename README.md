@@ -40,7 +40,7 @@ Add New Terrains: Open hex_map.py and add a new entry to TERRAIN_TYPES. The engi
 Custom Artwork: Replace the placeholder PNGs in assets/units/ and assets/terrain/ with your own pixel art.
 
 📜 Credits
-Core Engine & Architecture: Dudu (Lead Developer)
+Core Engine & Architecture: Lemmouchi Abdelbasset (Lead Developer)
 
 AI & Pathfinding Systems: Dudu & AI Assistant
 
